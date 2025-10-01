@@ -4,7 +4,6 @@
   
   [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
   [![Node Version](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen)](package.json)
-  [![Build Status](https://img.shields.io/github/workflow/status/yourorg/social-automation/CI)](https://github.com/yourorg/social-automation/actions)
   
 </div>
 
